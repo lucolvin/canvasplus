@@ -283,6 +283,6 @@ Learn more about tree commands for Windows [here](https://learn.microsoft.com/en
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This project incorporates code from Better Canvas, used under the MIT License. See LICENSE.ORIGINAL for details. All new contributions are licensed under LICENSE.
+This project incorporates code from Better Canvas, used under the MIT License. See [LICENSE.ORIGINAL](https://github.com/lucolvin/canvasplus/blob/da77e583fe16191a0d6af1ef167678deb0646fff/LICENSE.ORIGINAL) for details. All new contributions are licensed under [LICENSE](https://github.com/lucolvin/canvasplus/blob/da77e583fe16191a0d6af1ef167678deb0646fff/LICENSE).
 
 ![Better Canvas](/icon/icon-48.png)
